@@ -1,0 +1,14 @@
+#body{
+    background-color: lavender;
+    color: midnightblue;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    
+}
+
+h3{
+    color: rgb(199, 97 97);
+}
